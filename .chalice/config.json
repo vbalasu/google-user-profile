@@ -1,0 +1,11 @@
+{
+  "version": "2.0",
+  "app_name": "google-user-profile",
+  "manage_iam_role": false,
+  "iam_role_arn": "arn:aws:iam::997819012307:role/psa-reinvent2021-demo-functionRole-W27EZJ2S2NK9",
+  "stages": {
+    "dev": {
+      "api_gateway_stage": "api"
+    }
+  }
+}
